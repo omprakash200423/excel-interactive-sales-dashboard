@@ -28,7 +28,7 @@ It provides business leaders with actionable insights through interactive charts
 ---
 
 ## 📷 Dashboard Preview
-![Dashboard Screenshot](Screenshots/dashboard.png)
+![Dashboard Screenshot](Screenshots/dashboard)
 
 ---
 
@@ -56,5 +56,6 @@ For privacy, sensitive data is masked/replaced with dummy values.
 - [LinkedIn]- [LinkedIn](https://www.linkedin.com/in/om-prakash-regu-b6b2a9256/)
 )  
   
+
 
 
