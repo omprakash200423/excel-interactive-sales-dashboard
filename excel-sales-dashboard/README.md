@@ -34,13 +34,12 @@ It provides business leaders with actionable insights through interactive charts
 
 
 ---
-## Data Files
+## Data File
 
-The project uses the following data files:
+The project uses the following data file:
 
-- [Customers](data/customers.csv)
-- [Orders](data/orders.csv)
 - [Products](data/products.csv)
+
 
 
 ## 🛠 Tools Used
@@ -67,6 +66,7 @@ For privacy, sensitive data is masked/replaced with dummy values.
 - [LinkedIn]- [LinkedIn](https://www.linkedin.com/in/om-prakash-regu-b6b2a9256/)
 )  
   
+
 
 
 
