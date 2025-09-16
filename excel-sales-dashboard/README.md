@@ -33,16 +33,6 @@ It provides business leaders with actionable insights through interactive charts
 ![Dashboard](Screenshots/dashboard.png.png)
 
 
----
-
-## Data File
-
-The project uses the following data file:
-
-- [Products](data/products.csv)
-
-
-
 
 ## 🛠 Tools Used
 - Microsoft Excel (Pivot Tables, Charts, Slicers, KPIs)  
@@ -68,6 +58,7 @@ For privacy, sensitive data is masked/replaced with dummy values.
 - [LinkedIn]- [LinkedIn](https://www.linkedin.com/in/om-prakash-regu-b6b2a9256/)
 )  
   
+
 
 
 
