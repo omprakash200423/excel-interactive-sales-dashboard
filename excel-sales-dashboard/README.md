@@ -53,5 +53,7 @@ For privacy, sensitive data is masked/replaced with dummy values.
 ---
 
 ## 🔗 Connect with Me
-- [LinkedIn](www.linkedin.com/in/om-prakash-regu-b6b2a9256)  
+- [LinkedIn]- [LinkedIn](https://www.linkedin.com/in/om-prakash-regu-b6b2a9256/)
+)  
   
+
